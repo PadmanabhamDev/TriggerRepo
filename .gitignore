@@ -31,6 +31,10 @@ force-app/main/default/objects
 force-app/main/default/tabs
 force-app/main/default/objects
 force-app/main/default/flexipages
+force-app/main/default/applications
+force-app/main/default/layouts
+force-app/main/default/permissionsets
+force-app/main/default/staticresources
 
 
 # ApexPMD cache
