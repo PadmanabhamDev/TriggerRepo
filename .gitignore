@@ -26,7 +26,7 @@ node_modules/
 
 #Trigger
 force-app/main/default/aura
-force-app/main/default/lwc
+force-app/main/default/lwc/agentforceHomepage
 force-app/main/default/objects
 force-app/main/default/tabs
 force-app/main/default/objects
