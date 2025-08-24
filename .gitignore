@@ -35,6 +35,12 @@ force-app/main/default/applications
 force-app/main/default/layouts
 force-app/main/default/permissionsets
 force-app/main/default/staticresources
+.vscode
+config
+eslint.config.js
+jest.config.js
+
+
 
 
 # ApexPMD cache
